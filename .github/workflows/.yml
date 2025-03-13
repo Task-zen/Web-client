@@ -1,0 +1,5 @@
+            - name: Glitch Merge to Main
+  # You may pin to the exact commit or the version.
+  # uses: leozusa/Glitch-Merge-To-Main@6acc394235acaf0d2203d833eb8781c10cecf4ac
+  uses: leozusa/Glitch-Merge-To-Main@v1.1
+          
